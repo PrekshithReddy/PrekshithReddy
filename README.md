@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prekshith Reddy</h1>
 
 <h3 align="center">
-🚀 C Programmer | DSA Enthusiast | Future Software Engineer
+🚀 Java Programmer | DSA Enthusiast | Future Software Engineer
 </h3>
 
 ---
