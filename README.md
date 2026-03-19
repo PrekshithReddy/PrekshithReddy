@@ -8,12 +8,12 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🚀 Passionate about **Data Structures & Algorithms**
 - 💻 Solving problems on **LeetCode**
 - 🌱 Learning **Full Stack Development**
-- 🧠 Strong in **C & Problem Solving**
+- 🧠 Strong in **Java, C & Problem Solving**
 - 🎯 Goal: Crack top product-based companies
 
 ---
@@ -21,11 +21,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/prekshithreddy28">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/prekshithreddy28" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:prekshithreddy2728@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -39,11 +39,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrekshithReddy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrekshithReddy&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrekshithReddy&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrekshithReddy&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrekshithReddy&theme=tokyonight&hide_border=true" height="175"/>
 </p>
 
 ---
@@ -51,16 +55,15 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrekshithReddy&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrekshithReddy&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrekshithReddy/PrekshithReddy/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PrekshithReddy/PrekshithReddy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
