@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;DSA+Enthusiast;Problem+Solver;Web+Developer" />
 </p>
 ---
+
 ## 🧑‍💻 About Me
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
@@ -28,6 +29,7 @@
 </p>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
